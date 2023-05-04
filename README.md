@@ -7,5 +7,5 @@ Mastermind is used as an example of lazy evaluation.
 
 So here is my own version...
 
-- the source code in Literate Haskell: [mastermind.lhs](mastermind.hs)
+- the source code in Literate Haskell: [mastermind.lhs](mastermind.lhs)
 - the document rendered in Markdown: [mastermind.md](mastermind.md)
