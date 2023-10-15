@@ -242,10 +242,11 @@ Let’s see how the computer plays…
     \================================/
 
     Computer turn 1: "abcd" => 11
-    Computer turn 2: "aaab" => 10
-    Computer turn 3: "acec" => 11
-    Computer turn 4: "adde" => 21
-    Computer turn 5: "aedf" => 40
+    Computer turn 2: "aaab" => 30
+    Computer turn 3: "aaac" => 20
+    Computer turn 4: "aabb" => 21
+    Computer turn 5: "aeab" => 30
+    Computer turn 6: "afab" => 40
     I'm the best!
 
     /================================\
